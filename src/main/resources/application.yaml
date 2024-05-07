@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: spring-data-crud
+  datasource:
+    url: jdbc:h2:mem:testDB
+    driverClassName: org.h2.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+  h2:
+    console:
+      enabled: true
+      path: /h2
