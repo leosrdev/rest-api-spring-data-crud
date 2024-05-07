@@ -16,6 +16,12 @@ This project is an example of using the Spring Data and Spring Web frameworks to
 Run the application and go to: http://localhost:8080/swagger-ui/index.html
 ![image](https://github.com/leosrdev/spring-data-crud/assets/160193443/77d7d7bc-3e84-447d-b111-20e9f9404b82)
 
+## H2 console
+The H2 console is published on http://localhost:8080/h2
+![image](https://github.com/leosrdev/spring-data-crud/assets/160193443/acc275e8-e034-459e-a4be-92f77a175f40)
+
+
+
 ## Technologies Used
 - Spring Boot
 - Spring Data JPA
