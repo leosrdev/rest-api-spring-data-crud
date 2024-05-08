@@ -20,14 +20,12 @@ Run the application and go to: http://localhost:8080/swagger-ui/index.html
 The H2 console is published on http://localhost:8080/h2
 ![image](https://github.com/leosrdev/spring-data-crud/assets/160193443/acc275e8-e034-459e-a4be-92f77a175f40)
 
-
-
 ## Technologies Used
-- Spring Boot
-- Spring Data JPA
-- Spring Web
-- H2 Database
-- Lombok
+- Spring Boot ([learn](https://spring.io/guides/gs/spring-boot))
+- Spring Data JPA ([learn](https://spring.io/guides/gs/accessing-data-jpa))
+- Spring Web ([learn](https://spring.io/guides/gs/spring-boot))
+- H2 Database ([learn](https://www.h2database.com/html/quickstart.html))
+- Lombok ([learn](https://projectlombok.org/features/))
   
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
